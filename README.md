@@ -7,9 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/vikashsharma_26" target="blank"><img src="https://img.shields.io/twitter/follow/vikashsharma_26?logo=twitter&style=for-the-badge" alt="vikashsharma_26" /></a> </p>
 
-- 🌱 I’m currently learning **kotlin**
+- 🔭 I’m currently working on **my programming skills**
 
-- 💬 Ask me about **react,angular,etc...**
+- 🌱 I’m currently learning **React Native**
+
+- 📄 I’m looking to collaborate on **javascript project**
+
+- 🤝 I’m good with **Python3,HTML,CSS,JavaScript,Kotlin**
+
+- 👨‍💻 All of my projects are available at [https://github.com/vikashsharma26](https://github.com/vikashsharma26)
 
 - 📫 How to reach me **VikashSharma21@navgurukul.org**
 

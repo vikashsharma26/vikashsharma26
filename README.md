@@ -1,8 +1,7 @@
-<p><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/coding-freak.gif" alt="vikashsharma26" /></p>
 
 <h1 align="center">Hi 👋, I'm Vikash Sharma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
+<p><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/coding-freak.gif" alt="vikashsharma26" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashsharma26&label=Profile%20views&color=0e75b6&style=flat" alt="vikashsharma26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikashsharma26" alt="vikashsharma26" /></a> </p>

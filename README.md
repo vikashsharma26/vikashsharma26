@@ -1,6 +1,6 @@
 <div bgcolor="white">
   <h1 align="center">Hi 👋, I'm Vikash Sharma</h1>
-  <h3 align="center">A passionate fullstack developer from India</h3>
+  <h2 align="center">A passionate fullstack developer from India</h2>
   <p><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/coding-freak.gif" alt="vikashsharma26" /></p>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashsharma26&label=Profile%20views&color=0e75b6&style=flat" alt="vikashsharma26" /> </p>
 
@@ -8,9 +8,9 @@
 
  <!-- <p align="left"> <a href="https://twitter.com/vikashsharma_26" target="blank"><img src="https://img.shields.io/twitter/follow/vikashsharma_26?logo=twitter&style=for-the-badge" alt="vikashsharma_26" /></a> </p>-->
 
-  - 👨‍💻 You can also check out my portfolio at <br/>[https://github.com/vikashsharma26.io/](https://github.com/vikashsharma26.io/)
+  <h3>- 👨‍💻 You can also check out my portfolio at <br/>[https://github.com/vikashsharma26.io/](https://github.com/vikashsharma26.io/)</h3>
 
-  - 📫 How to reach me **VikashSharma21@navgurukul.org**
+    <h3>- 📫 How to reach me **VikashSharma21@navgurukul.org**</h3>
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">

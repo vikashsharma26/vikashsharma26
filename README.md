@@ -1,4 +1,4 @@
-<body bgcolor="white">
+<div bgcolor="white">
   <h1 align="center">Hi 👋, I'm Vikash Sharma</h1>
   <h3 align="center">A passionate fullstack developer from India</h3>
   <p><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/coding-freak.gif" alt="vikashsharma26" /></p>
@@ -26,4 +26,4 @@
   <br/><br/>
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vikashsharma26&show_icons=true&locale=en" alt="vikashsharma26" /></p>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashsharma26&" alt="vikashsharma26" /></p>
-</body>
+</div>

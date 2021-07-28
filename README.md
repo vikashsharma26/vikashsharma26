@@ -10,7 +10,7 @@
 
   <p> - 👨‍💻 You can also check out my portfolio at <br/> https://github.com/vikashsharma26.io/</p>
 
-   <p> - 📫 How to reach me <br/> <a href="https://www.google.com/intl/en-GB/gmail/about/" target="blank">VikashSharma21@navgurukul.org</p>
+   - 📫 How to reach me <br/> **VikashSharma21@navgurukul.org**</p>
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">

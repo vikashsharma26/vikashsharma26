@@ -4,9 +4,9 @@
   <p><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/coding-freak.gif" alt="vikashsharma26" /></p>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashsharma26&label=Profile%20views&color=0e75b6&style=flat" alt="vikashsharma26" /> </p>
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikashsharma26" alt="vikashsharma26" /></a> </p>
+  <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikashsharma26" alt="vikashsharma26" /></a> </p>-->
 
-  <p align="left"> <a href="https://twitter.com/vikashsharma_26" target="blank"><img src="https://img.shields.io/twitter/follow/vikashsharma_26?logo=twitter&style=for-the-badge" alt="vikashsharma_26" /></a> </p>
+ <!-- <p align="left"> <a href="https://twitter.com/vikashsharma_26" target="blank"><img src="https://img.shields.io/twitter/follow/vikashsharma_26?logo=twitter&style=for-the-badge" alt="vikashsharma_26" /></a> </p>-->
 
   - 👨‍💻 You can also check out my portfolio at <br/>[https://github.com/vikashsharma26.io/](https://github.com/vikashsharma26.io/)
 

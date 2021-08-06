@@ -14,7 +14,7 @@
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-  <a href="https://twitter.com/vikashsharma_26" target="blank"><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/twitter.svg" alt="vikashsharma_26" height="30" width="40" /></a>
+<!--   <a href="https://twitter.com/vikashsharma_26" target="blank"><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/twitter.svg" alt="vikashsharma_26" height="30" width="40" /></a> -->
   <a href="https://instagram.com/vikashh96" target="blank"><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/instagram.svg" alt="vikashh96" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/vikashsharma21" target="blank"><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/hackerrank.svg" alt="vikashsharma21" height="30" width="40" /></a>
   </p>

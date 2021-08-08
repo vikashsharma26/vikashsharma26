@@ -8,7 +8,7 @@
 
  <!-- <p align="left"> <a href="https://twitter.com/vikashsharma_26" target="blank"><img src="https://img.shields.io/twitter/follow/vikashsharma_26?logo=twitter&style=for-the-badge" alt="vikashsharma_26" /></a> </p>-->
 
-   - 👨‍💻 You can also check out my portfolio at <br/> https://github.com/vikashsharma26/
+   - 👨‍💻 You can also check out my portfolio at <br/> **https://github.com/vikashsharma26/**
 
    - 📫 How to reach me <br/> **VikashSharma21@navgurukul.org**
 

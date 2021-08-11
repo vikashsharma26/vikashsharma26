@@ -1,6 +1,6 @@
 <body bgcolor="white">
   <h1 align="center">Hi 👋, I'm Vikash Sharma</h1>
-  <h2 align="center">A passionate fullstack developer from India</h2>
+  <h2 align="center">A passionate programmer from India</h2>
   <p><img align="center" src="https://github.com/vikashsharma26/toolsformyself/blob/main/coding-freak.gif" alt="vikashsharma26" /></p>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashsharma26&label=Profile%20views&color=0e75b6&style=flat" alt="vikashsharma26" width="90" /> </p>
 
